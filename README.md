@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarthakssingh
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python, java and webdevlopment.
+- 🌱 I’m currently learning python, java and web devlopment(React + Node).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sarthaksingh5710@gmail.com
 
